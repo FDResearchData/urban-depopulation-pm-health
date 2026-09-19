@@ -1,6 +1,6 @@
-# Run from the public-package root: Rscript Code/fig3.R
+# Run from the public-package root: Rscript code/fig3.R
 suppressPackageStartupMessages({library(data.table);library(ggplot2);library(patchwork)})
-d <- fread('Data/source_data/fig3.csv')
+d <- fread('data/fig3.csv')
 dir.create('Output',showWarnings=FALSE)
 cols <- c('Direct'='#3E6F89','Local'='#3E6F89','Connected-city'='#D28A48','Total'='#756BA8')
 shapes <- c('Direct'=16,'Local'=16,'Connected-city'=15,'Total'=17)

@@ -1,6 +1,6 @@
-# Run from the public-package root: Rscript Code/main_sdm.R
+# Run from the public-package root: Rscript code/main_sdm.R
 suppressPackageStartupMessages({library(data.table);library(splm);library(spdep);library(MASS)})
-d<-fread('Data/city_level_data.csv');w<-fread('Data/spatial_weights.csv')
+d<-fread('data/city_level_data.csv');w<-fread('data/spatial_weights.csv')
 codes<-w$city_id;W<-as.matrix(w[,-1]);dimnames(W)<-list(as.character(codes),as.character(codes))
 stopifnot(nrow(d)==2810,nrow(W)==281,max(abs(rowSums(W)-1))<1e-12,all(diag(W)==0),!anyNA(d))
 d[,city_id:=as.character(city_id)];setorder(d,city_id,year)

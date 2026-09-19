@@ -1,6 +1,6 @@
-# Run from the public-package root: Rscript Code/health_analysis.R
-d <- read.csv('Data/health_inputs.csv',stringsAsFactors=FALSE)
-reference <- read.csv('Data/health_results.csv',stringsAsFactors=FALSE)
+# Run from the public-package root: Rscript code/health_analysis.R
+d <- read.csv('data/health_inputs.csv',stringsAsFactors=FALSE)
+reference <- read.csv('data/health_results.csv',stringsAsFactors=FALSE)
 stopifnot(nrow(d)==7306,!anyNA(d),length(unique(d$city_id))==281)
 paf <- function(pm) {
  z <- pmax(pm-d$c0,0)

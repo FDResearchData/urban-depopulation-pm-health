@@ -1,6 +1,6 @@
-# Run from the public-package root: Rscript Code/fig2.R
+# Run from the public-package root: Rscript code/fig2.R
 suppressPackageStartupMessages({library(data.table);library(ggplot2);library(patchwork)})
-d <- fread('Data/source_data/fig2.csv')
+d <- fread('data/fig2.csv')
 dir.create('Output',showWarnings=FALSE)
 labels <- c('Exclude Northeast','Exclude BTH','Exclude YRD','Exclude Guangdong','Exclude BTH + YRD','Province-by-year FE','Region-by-year FE','No time-varying covariates')
 pm_titles <- list(expression(PM[1]),expression(PM[2.5]),expression(PM[10]))

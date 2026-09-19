@@ -1,9 +1,9 @@
-# Run from the public-package root: Rscript Code/fig4.R
+# Run from the public-package root: Rscript code/fig4.R
 suppressPackageStartupMessages({library(data.table);library(ggplot2);library(patchwork);library(sf)})
-d <- fread('Data/source_data/fig4.csv')
+d <- fread('data/fig4.csv')
 dir.create('Output',showWarnings=FALSE)
 crs <- '+proj=aea +lat_1=25 +lat_2=47 +lat_0=0 +lon_0=105 +datum=WGS84 +units=m +no_defs'
-city_boundary <- sf::st_read('Data/city_boundaries.gpkg',quiet=TRUE)
+city_boundary <- sf::st_read('data/city_boundaries.gpkg',quiet=TRUE)
 city_boundary$city_id <- sprintf('%06d',as.integer(as.character(city_boundary$city_id)))
 city_boundary <- sf::st_transform(city_boundary,crs)
 join_boundary <- function(values) {
