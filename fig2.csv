@@ -1,0 +1,43 @@
+panel,model,outcome,group,specification,estimate,lower,upper
+a,Primary model,lnPM1,Direct,"",-0.0640431015173057,-0.818145177589081,0.793985387436981
+a,Primary model,lnPM1,Connected-city,"",-16.2574607533167,-30.5510880073095,-1.27630774184695
+a,Primary model,lnPM1,Total,"",-16.3110920727396,-30.9217876361764,-0.883241324718236
+b,Primary model,lnPM2_5,Direct,"",-0.24719342596323,-1.0666594341524,0.610920553393457
+b,Primary model,lnPM2_5,Connected-city,"",-15.4588699218784,-29.6302716133995,-0.73028639052103
+b,Primary model,lnPM2_5,Total,"",-15.6678500376666,-30.024252162051,-0.195612355064211
+c,Primary model,lnPM10,Direct,"",-0.358801583559722,-1.14283132370746,0.440055319494275
+c,Primary model,lnPM10,Connected-city,"",-15.3321523784503,-27.156455757228,-3.39330512831054
+c,Primary model,lnPM10,Total,"",-15.6359419564824,-27.6027293931572,-3.03492466507602
+d,Policy-adjusted model,lnPM1,Direct,"",-0.0642433961744187,-0.893631668052973,0.80309123892346
+d,Policy-adjusted model,lnPM1,Connected-city,"",-16.3299745847307,-30.8856686751402,-1.14116653534837
+d,Policy-adjusted model,lnPM1,Total,"",-16.3837270506375,-31.1596535624201,-0.414922050431164
+e,Policy-adjusted model,lnPM2_5,Direct,"",-0.262597641698259,-1.0715650149506,0.58210108739421
+e,Policy-adjusted model,lnPM2_5,Connected-city,"",-16.1327722996572,-29.7996066374535,-2.07138843873022
+e,Policy-adjusted model,lnPM2_5,Total,"",-16.353005661756,-30.2011415160396,-1.56741361501066
+f,Policy-adjusted model,lnPM10,Direct,"",-0.349963717120162,-1.12924621233131,0.444794660151064
+f,Policy-adjusted model,lnPM10,Connected-city,"",-15.1385029080367,-26.7793114357743,-3.46668689980517
+f,Policy-adjusted model,lnPM10,Total,"",-15.4354873576635,-27.2214304363764,-3.10335333046423
+g,Robustness checks,lnPM1,Connected-city,Province-by-year FE,-24.9459609254992,-32.3755791167338,-18.0733999731565
+g,Robustness checks,lnPM1,Connected-city,Region-by-year FE,-18.8720366002077,-31.7502726794524,-5.78932879875358
+h,Robustness checks,lnPM2_5,Connected-city,Province-by-year FE,-25.0582092862387,-32.4282007524552,-18.2437542352264
+h,Robustness checks,lnPM2_5,Connected-city,Region-by-year FE,-17.0999568165731,-29.7098164605585,-4.39668719092949
+i,Robustness checks,lnPM10,Connected-city,Province-by-year FE,-17.4614803138155,-23.9290024742826,-11.3104052754841
+i,Robustness checks,lnPM10,Connected-city,Region-by-year FE,-14.4619841297851,-25.1681747376555,-3.93428453506689
+g,Robustness checks,lnPM1,Connected-city,Exclude Northeast,-25.2223996493796,-41.0581862339414,-9.05134458200521
+h,Robustness checks,lnPM2_5,Connected-city,Exclude Northeast,-24.041197325046,-39.0351467726255,-9.04147596584143
+i,Robustness checks,lnPM10,Connected-city,Exclude Northeast,-30.0925697082189,-42.0014277934769,-17.2187846927747
+g,Robustness checks,lnPM1,Connected-city,Exclude BTH,-12.1881609277103,-25.3128548733501,1.50471296782154
+h,Robustness checks,lnPM2_5,Connected-city,Exclude BTH,-11.6358025443356,-23.7150256707533,0.653372091582454
+i,Robustness checks,lnPM10,Connected-city,Exclude BTH,-11.7126832413721,-22.0072990074621,-1.46694407189617
+g,Robustness checks,lnPM1,Connected-city,Exclude YRD,-14.3122949953195,-26.5400926911682,-1.9208117114771
+h,Robustness checks,lnPM2_5,Connected-city,Exclude YRD,-15.2614030892513,-27.2217757812055,-3.21413751379905
+i,Robustness checks,lnPM10,Connected-city,Exclude YRD,-13.9128491647243,-24.3314791986664,-3.63169729184588
+g,Robustness checks,lnPM1,Connected-city,Exclude Guangdong,-13.6252532184106,-27.4099373189834,0.63019566689745
+h,Robustness checks,lnPM2_5,Connected-city,Exclude Guangdong,-15.1879241861897,-28.169039763158,-1.94996733944565
+i,Robustness checks,lnPM10,Connected-city,Exclude Guangdong,-15.9274056909965,-26.8305123238538,-5.10979317699919
+g,Robustness checks,lnPM1,Connected-city,Exclude BTH + YRD,-11.6991906842495,-22.592127680506,-0.743354560968905
+h,Robustness checks,lnPM2_5,Connected-city,Exclude BTH + YRD,-12.1082124429896,-22.5326605122941,-1.72392430660611
+i,Robustness checks,lnPM10,Connected-city,Exclude BTH + YRD,-11.7826424471101,-20.9118767834672,-2.84619265173037
+g,Robustness checks,lnPM1,Connected-city,No time-varying covariates,-21.1296849590007,-35.3110225630237,-6.79630197138258
+h,Robustness checks,lnPM2_5,Connected-city,No time-varying covariates,-21.1900843811803,-34.9171966644762,-6.5104201160685
+i,Robustness checks,lnPM10,Connected-city,No time-varying covariates,-23.4201404373173,-35.1584485239186,-11.0728389378248

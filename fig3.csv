@@ -1,0 +1,219 @@
+panel,group,estimate,lower,upper,outcome,city_id,y
+a,Direct,0.251888633350873,-0.333792307415339,0.885872566970571,,,
+a,Connected-city,-3.52900292731926,-5.69317070405711,-1.48040947574098,,,
+a,Total,-3.27711429396839,-5.47030097648428,-1.19193880729121,,,
+b,Direct,-0.000324684147874762,-0.00905838834333661,0.00868748935819373,,,
+b,Connected-city,-0.0905984561712969,-0.127402896930114,-0.0576215432754937,,,
+b,Total,-0.0909231403191716,-0.127263242394521,-0.0555561300037873,,,
+c,Local,-0.0866287837499201,-0.343660371403527,0.170402803903687,SO2 emissions,,
+c,Connected-city,-0.523235281693284,-0.913878477428228,-0.13259208595834,SO2 emissions,,
+c,Local,-0.0892639887894444,-0.334230892753215,0.155702915174326,NOx emissions,,
+c,Connected-city,-0.554131146546346,-0.932067330576245,-0.176194962516447,NOx emissions,,
+c,Local,0.00282095889772149,-0.199075779461616,0.204717697257059,Industrial soot emissions,,
+c,Connected-city,-0.0947556794309119,-0.478128584541456,0.288617225679632,Industrial soot emissions,,
+c,Local,-0.086781607155679,-0.369037758951914,0.195474544640556,Industrial air-emission composite,,
+c,Connected-city,-0.495367630187127,-0.907445395691374,-0.0832898646828796,Industrial air-emission composite,,
+d,Highly connected non-depopulating cities,-40.72377,,,SO[2],410400,20
+d,Highly connected non-depopulating cities,-40.686563,,,SO[2],210200,19
+d,Highly connected non-depopulating cities,-40.036218,,,SO[2],150200,18
+d,Highly connected non-depopulating cities,-28.876793,,,SO[2],230100,17
+d,Highly connected non-depopulating cities,-24.469745,,,SO[2],150100,16
+d,Highly connected non-depopulating cities,-18.407711,,,SO[2],130300,15
+d,Highly connected non-depopulating cities,-12.784737,,,SO[2],130800,14
+d,Highly connected non-depopulating cities,-11.466985,,,SO[2],220100,13
+d,Highly connected non-depopulating cities,-10.67036,,,SO[2],411000,12
+d,Highly connected non-depopulating cities,-7.342571,,,SO[2],150400,11
+d,Highly connected non-depopulating cities,-3.268533,,,SO[2],230800,10
+d,Highly connected non-depopulating cities,-2.639592,,,SO[2],610900,9
+d,Highly connected non-depopulating cities,-0.352279,,,SO[2],411600,8
+d,Highly connected non-depopulating cities,0.408988,,,SO[2],230600,7
+d,Highly connected non-depopulating cities,0.558887,,,SO[2],411700,6
+d,Highly connected non-depopulating cities,7.386301,,,SO[2],211300,5
+d,Highly connected non-depopulating cities,8.484831,,,SO[2],210100,4
+d,Highly connected non-depopulating cities,17.177851,,,SO[2],211100,3
+d,Highly connected non-depopulating cities,24.673628,,,SO[2],150500,2
+d,Depopulating cities,-34.402683,,,SO[2],230200,54
+d,Depopulating cities,-28.671132,,,SO[2],211400,53
+d,Depopulating cities,-27.071733,,,SO[2],211200,52
+d,Depopulating cities,-19.003033,,,SO[2],210800,51
+d,Depopulating cities,-18.227364,,,SO[2],210700,50
+d,Depopulating cities,-16.18891,,,SO[2],220500,49
+d,Depopulating cities,-16.171552,,,SO[2],231000,48
+d,Depopulating cities,-14.674226,,,SO[2],150900,47
+d,Depopulating cities,-13.392358,,,SO[2],220200,46
+d,Depopulating cities,-12.975717,,,SO[2],230500,45
+d,Depopulating cities,-12.491071,,,SO[2],220300,44
+d,Depopulating cities,-11.683606,,,SO[2],220700,43
+d,Depopulating cities,-11.294267,,,SO[2],150700,42
+d,Depopulating cities,-9.06247,,,SO[2],210500,41
+d,Depopulating cities,-7.004331,,,SO[2],210400,40
+d,Depopulating cities,-6.393116,,,SO[2],230300,39
+d,Depopulating cities,-6.027803,,,SO[2],411100,38
+d,Depopulating cities,-5.015376,,,SO[2],220800,37
+d,Depopulating cities,-4.736971,,,SO[2],210600,36
+d,Depopulating cities,-4.675286,,,SO[2],230900,35
+d,Depopulating cities,-4.233181,,,SO[2],220600,34
+d,Depopulating cities,-3.950051,,,SO[2],231100,33
+d,Depopulating cities,-3.065656,,,SO[2],150800,32
+d,Depopulating cities,-2.422464,,,SO[2],230400,31
+d,Depopulating cities,-1.315648,,,SO[2],420300,30
+d,Depopulating cities,-0.773235,,,SO[2],230700,29
+d,Depopulating cities,0.529363,,,SO[2],231200,28
+d,Depopulating cities,1.14959,,,SO[2],210900,27
+d,Depopulating cities,4.422735,,,SO[2],210300,26
+d,Depopulating cities,6.808824,,,SO[2],211000,25
+d,Depopulating cities,8.881769,,,SO[2],220400,24
+d,Highly connected non-depopulating cities,-74.644357,,,NO[x],150100,20
+d,Highly connected non-depopulating cities,-62.724339,,,NO[x],410400,19
+d,Highly connected non-depopulating cities,-47.61374,,,NO[x],150200,18
+d,Highly connected non-depopulating cities,-34.448449,,,NO[x],210200,17
+d,Highly connected non-depopulating cities,-22.221981,,,NO[x],220100,16
+d,Highly connected non-depopulating cities,-22.151836,,,NO[x],230100,15
+d,Highly connected non-depopulating cities,-18.350886,,,NO[x],411000,14
+d,Highly connected non-depopulating cities,-16.17832,,,NO[x],130300,13
+d,Highly connected non-depopulating cities,-15.825032,,,NO[x],210100,12
+d,Highly connected non-depopulating cities,-14.299139,,,NO[x],130800,11
+d,Highly connected non-depopulating cities,-5.416007,,,NO[x],411700,10
+d,Highly connected non-depopulating cities,-4.068481,,,NO[x],230800,9
+d,Highly connected non-depopulating cities,-3.621933,,,NO[x],411600,8
+d,Highly connected non-depopulating cities,-1.687199,,,NO[x],610900,7
+d,Highly connected non-depopulating cities,-1.01343,,,NO[x],230600,6
+d,Highly connected non-depopulating cities,3.80457,,,NO[x],150400,5
+d,Highly connected non-depopulating cities,4.785808,,,NO[x],211300,4
+d,Highly connected non-depopulating cities,11.11746,,,NO[x],211100,3
+d,Highly connected non-depopulating cities,24.756299,,,NO[x],150500,2
+d,Depopulating cities,-50.84241,,,NO[x],230200,54
+d,Depopulating cities,-45.201112,,,NO[x],150900,53
+d,Depopulating cities,-43.959645,,,NO[x],220200,52
+d,Depopulating cities,-43.026257,,,NO[x],211400,51
+d,Depopulating cities,-38.372052,,,NO[x],210800,50
+d,Depopulating cities,-27.156043,,,NO[x],231000,49
+d,Depopulating cities,-19.924009,,,NO[x],220300,48
+d,Depopulating cities,-17.669667,,,NO[x],210400,47
+d,Depopulating cities,-14.025879,,,NO[x],210700,46
+d,Depopulating cities,-13.922456,,,NO[x],220700,45
+d,Depopulating cities,-12.641839,,,NO[x],150800,44
+d,Depopulating cities,-12.621714,,,NO[x],210900,43
+d,Depopulating cities,-12.50981,,,NO[x],230500,42
+d,Depopulating cities,-12.39389,,,NO[x],220800,41
+d,Depopulating cities,-10.247862,,,NO[x],411100,40
+d,Depopulating cities,-9.389014,,,NO[x],211200,39
+d,Depopulating cities,-8.493756,,,NO[x],220500,38
+d,Depopulating cities,-8.01339,,,NO[x],150700,37
+d,Depopulating cities,-7.882266,,,NO[x],211000,36
+d,Depopulating cities,-7.85874,,,NO[x],220600,35
+d,Depopulating cities,-7.523386,,,NO[x],230400,34
+d,Depopulating cities,-7.484107,,,NO[x],210600,33
+d,Depopulating cities,-3.180643,,,NO[x],230700,32
+d,Depopulating cities,-2.088415,,,NO[x],230300,31
+d,Depopulating cities,-0.056952,,,NO[x],231100,30
+d,Depopulating cities,0.111728,,,NO[x],210500,29
+d,Depopulating cities,1.162099,,,NO[x],231200,28
+d,Depopulating cities,1.413179,,,NO[x],210300,27
+d,Depopulating cities,2.391142,,,NO[x],420300,26
+d,Depopulating cities,2.810464,,,NO[x],230900,25
+d,Depopulating cities,12.923248,,,NO[x],220400,24
+d,Highly connected non-depopulating cities,-87.753032,,,'Industrial soot',220100,20
+d,Highly connected non-depopulating cities,-49.899211,,,'Industrial soot',410400,19
+d,Highly connected non-depopulating cities,-38.441775,,,'Industrial soot',150200,18
+d,Highly connected non-depopulating cities,-38.21756,,,'Industrial soot',150500,17
+d,Highly connected non-depopulating cities,-32.18173,,,'Industrial soot',230800,16
+d,Highly connected non-depopulating cities,-29.696922,,,'Industrial soot',230100,15
+d,Highly connected non-depopulating cities,-28.277238,,,'Industrial soot',130800,14
+d,Highly connected non-depopulating cities,-20.700864,,,'Industrial soot',211300,13
+d,Highly connected non-depopulating cities,-17.689513,,,'Industrial soot',210100,12
+d,Highly connected non-depopulating cities,-16.595023,,,'Industrial soot',210200,11
+d,Highly connected non-depopulating cities,-15.056912,,,'Industrial soot',130300,10
+d,Highly connected non-depopulating cities,-12.628284,,,'Industrial soot',150100,9
+d,Highly connected non-depopulating cities,-11.540689,,,'Industrial soot',411700,8
+d,Highly connected non-depopulating cities,-9.880123,,,'Industrial soot',411000,7
+d,Highly connected non-depopulating cities,-8.45379,,,'Industrial soot',150400,6
+d,Highly connected non-depopulating cities,-7.809919,,,'Industrial soot',230600,5
+d,Highly connected non-depopulating cities,-4.499572,,,'Industrial soot',411600,4
+d,Highly connected non-depopulating cities,-3.818499,,,'Industrial soot',610900,3
+d,Highly connected non-depopulating cities,-3.274527,,,'Industrial soot',211100,2
+d,Depopulating cities,-99.381159,,,'Industrial soot',220200,54
+d,Depopulating cities,-38.153934,,,'Industrial soot',210800,53
+d,Depopulating cities,-34.683399,,,'Industrial soot',230500,52
+d,Depopulating cities,-29.552256,,,'Industrial soot',231000,51
+d,Depopulating cities,-29.160504,,,'Industrial soot',230300,50
+d,Depopulating cities,-26.314895,,,'Industrial soot',210400,49
+d,Depopulating cities,-25.165758,,,'Industrial soot',230200,48
+d,Depopulating cities,-24.670355,,,'Industrial soot',210700,47
+d,Depopulating cities,-21.568404,,,'Industrial soot',220700,46
+d,Depopulating cities,-20.736331,,,'Industrial soot',211000,45
+d,Depopulating cities,-20.478437,,,'Industrial soot',210300,44
+d,Depopulating cities,-19.895354,,,'Industrial soot',211200,43
+d,Depopulating cities,-16.442478,,,'Industrial soot',220500,42
+d,Depopulating cities,-15.684862,,,'Industrial soot',230900,41
+d,Depopulating cities,-14.020508,,,'Industrial soot',230700,40
+d,Depopulating cities,-14.008763,,,'Industrial soot',150900,39
+d,Depopulating cities,-13.684398,,,'Industrial soot',220300,38
+d,Depopulating cities,-12.673394,,,'Industrial soot',210600,37
+d,Depopulating cities,-12.098909,,,'Industrial soot',150700,36
+d,Depopulating cities,-11.232724,,,'Industrial soot',210900,35
+d,Depopulating cities,-10.713144,,,'Industrial soot',210500,34
+d,Depopulating cities,-9.851072,,,'Industrial soot',150800,33
+d,Depopulating cities,-9.312401,,,'Industrial soot',211400,32
+d,Depopulating cities,-8.934979,,,'Industrial soot',231100,31
+d,Depopulating cities,-8.498728,,,'Industrial soot',220600,30
+d,Depopulating cities,-6.781489,,,'Industrial soot',220800,29
+d,Depopulating cities,-6.403085,,,'Industrial soot',420300,28
+d,Depopulating cities,-5.204692,,,'Industrial soot',230400,27
+d,Depopulating cities,-4.402739,,,'Industrial soot',220400,26
+d,Depopulating cities,-3.548625,,,'Industrial soot',231200,25
+d,Depopulating cities,-2.840462,,,'Industrial soot',411100,24
+d,Highly connected non-depopulating cities,-153.34732,,,'Air-emission composite',410400,20
+d,Highly connected non-depopulating cities,-126.091733,,,'Air-emission composite',150200,19
+d,Highly connected non-depopulating cities,-121.441998,,,'Air-emission composite',220100,18
+d,Highly connected non-depopulating cities,-111.742386,,,'Air-emission composite',150100,17
+d,Highly connected non-depopulating cities,-91.730035,,,'Air-emission composite',210200,16
+d,Highly connected non-depopulating cities,-80.725551,,,'Air-emission composite',230100,15
+d,Highly connected non-depopulating cities,-55.361114,,,'Air-emission composite',130800,14
+d,Highly connected non-depopulating cities,-49.642943,,,'Air-emission composite',130300,13
+d,Highly connected non-depopulating cities,-39.518744,,,'Air-emission composite',230800,12
+d,Highly connected non-depopulating cities,-38.901369,,,'Air-emission composite',411000,11
+d,Highly connected non-depopulating cities,-25.029714,,,'Air-emission composite',210100,10
+d,Highly connected non-depopulating cities,-16.397809,,,'Air-emission composite',411700,9
+d,Highly connected non-depopulating cities,-11.991791,,,'Air-emission composite',150400,8
+d,Highly connected non-depopulating cities,-8.528755,,,'Air-emission composite',211300,7
+d,Highly connected non-depopulating cities,-8.473784,,,'Air-emission composite',411600,6
+d,Highly connected non-depopulating cities,-8.414361,,,'Air-emission composite',230600,5
+d,Highly connected non-depopulating cities,-8.14529,,,'Air-emission composite',610900,4
+d,Highly connected non-depopulating cities,11.212367,,,'Air-emission composite',150500,3
+d,Highly connected non-depopulating cities,25.020784,,,'Air-emission composite',211100,2
+d,Depopulating cities,-156.733162,,,'Air-emission composite',220200,54
+d,Depopulating cities,-110.410851,,,'Air-emission composite',230200,53
+d,Depopulating cities,-95.529019,,,'Air-emission composite',210800,52
+d,Depopulating cities,-81.00979,,,'Air-emission composite',211400,51
+d,Depopulating cities,-73.884101,,,'Air-emission composite',150900,50
+d,Depopulating cities,-72.879851,,,'Air-emission composite',231000,49
+d,Depopulating cities,-60.168926,,,'Air-emission composite',230500,48
+d,Depopulating cities,-56.923598,,,'Air-emission composite',210700,47
+d,Depopulating cities,-56.356101,,,'Air-emission composite',211200,46
+d,Depopulating cities,-50.988893,,,'Air-emission composite',210400,45
+d,Depopulating cities,-47.174466,,,'Air-emission composite',220700,44
+d,Depopulating cities,-46.099478,,,'Air-emission composite',220300,43
+d,Depopulating cities,-41.125144,,,'Air-emission composite',220500,42
+d,Depopulating cities,-37.642035,,,'Air-emission composite',230300,41
+d,Depopulating cities,-31.406566,,,'Air-emission composite',150700,40
+d,Depopulating cities,-25.558567,,,'Air-emission composite',150800,39
+d,Depopulating cities,-24.894472,,,'Air-emission composite',210600,38
+d,Depopulating cities,-24.190755,,,'Air-emission composite',220800,37
+d,Depopulating cities,-22.704848,,,'Air-emission composite',210900,36
+d,Depopulating cities,-21.809773,,,'Air-emission composite',211000,35
+d,Depopulating cities,-20.590649,,,'Air-emission composite',220600,34
+d,Depopulating cities,-19.663886,,,'Air-emission composite',210500,33
+d,Depopulating cities,-19.116127,,,'Air-emission composite',411100,32
+d,Depopulating cities,-17.974386,,,'Air-emission composite',230700,31
+d,Depopulating cities,-17.549684,,,'Air-emission composite',230900,30
+d,Depopulating cities,-15.150542,,,'Air-emission composite',230400,29
+d,Depopulating cities,-14.642523,,,'Air-emission composite',210300,28
+d,Depopulating cities,-12.941982,,,'Air-emission composite',231100,27
+d,Depopulating cities,-5.327591,,,'Air-emission composite',420300,26
+d,Depopulating cities,-1.857163,,,'Air-emission composite',231200,25
+d,Depopulating cities,17.402278,,,'Air-emission composite',220400,24
+e,Local,-0.252553025917732,-0.628620268514554,0.12351421667909,High-emission firm entry,,
+e,Connected-city,-1.37211568417477,-2.51807182101927,-0.226159547330272,High-emission firm entry,,
+e,Local,-0.17834562729797,-1.05218017786718,0.695488923271244,Emission-weighted entry,,
+e,Connected-city,-3.5206512875717,-6.93164417131388,-0.109658403829525,Emission-weighted entry,,
