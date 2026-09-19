@@ -27,4 +27,4 @@ QGIS 3.6
 
 ## License
 
-The CC BY 4.0 License applies to the code in this repository. Data remain subject to the terms of their original sources where applicable.
+The MIT License applies to the code in this repository. Data remain subject to the terms of their original sources where applicable.
